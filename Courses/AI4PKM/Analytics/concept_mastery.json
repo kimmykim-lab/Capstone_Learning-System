@@ -1,0 +1,30 @@
+{
+  "course": "AI4PKM",
+  "last_updated": "2026-02-12",
+  "concepts": {
+    "automation": {
+      "attempts": 1,
+      "correct": 0,
+      "wrong": 1,
+      "mastery": 0,
+      "history": [
+        {
+          "date": "2026-02-12",
+          "mastery": 0
+        }
+      ]
+    },
+    "knowledge_structuring": {
+      "attempts": 1,
+      "correct": 1,
+      "wrong": 0,
+      "mastery": 100,
+      "history": [
+        {
+          "date": "2026-02-12",
+          "mastery": 100
+        }
+      ]
+    }
+  }
+}

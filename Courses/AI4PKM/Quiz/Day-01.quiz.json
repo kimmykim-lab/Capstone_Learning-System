@@ -1,0 +1,19 @@
+{
+  "course": "AI4PKM",
+  "date": "2026-02-12",
+  "day": "D01",
+  "questions": [
+    {
+      "id": "Q1",
+      "keyword": "automation",
+      "correct_answer": "B",
+      "user_answer": "D",
+    },
+    {
+      "id": "Q2",
+      "keyword": "knowledge_structuring",
+      "correct_answer": "A",
+      "user_answer": "A",
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "course": "AI4PKM",
+  "weeks": [
+    {
+      "week": 1,
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-18",
+      "concepts": {
+        "automation": {
+          "mastery": 0,
+          "attempts": 1
+        },
+        "knowledge_structuring": {
+          "mastery": 100,
+          "attempts": 1
+        }
+      }
+    }
+  ]
+}
