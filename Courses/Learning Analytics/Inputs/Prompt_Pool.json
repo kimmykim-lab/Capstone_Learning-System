@@ -1,0 +1,260 @@
+[
+  {
+    "id": "E01",
+    "type": "exercise",
+    "domain": "finance",
+    "difficulty": 1,
+    "reflection_required": true,
+    "concept_tags": [
+      "categorization",
+      "pattern detection",
+      "self-measurement"
+    ],
+    "prompt": "Write down everything you spent money on in the last 3 days. Divide into categories such as Food, Transportation, Shopping, Others. Then answer: Which category is the largest, what surprised you, and write one-line insight."
+  },
+  {
+    "id": "E02",
+    "type": "exercise",
+    "domain": "health",
+    "difficulty": 1,
+    "reflection_required": true,
+    "concept_tags": [
+      "input-output",
+      "rule-based system",
+      "personalization"
+    ],
+    "prompt": "Write your height, weight, and goal (lose weight, maintain, gain muscle). Ask AI to generate a simple one-day meal plan. Reflect on what rule the system seemed to use, what you would change, and write one-line insight."
+  },
+  {
+    "id": "E03",
+    "type": "exercise",
+    "domain": "health",
+    "difficulty": 1,
+    "reflection_required": true,
+    "concept_tags": [
+      "habit formation",
+      "observation",
+      "feedback"
+    ],
+    "prompt": "Take a 20-minute walk in a nearby park or green area. After walking, write how you felt, what you noticed, and one-line insight."
+  },
+  {
+    "id": "E04",
+    "type": "exercise",
+    "domain": "travel",
+    "difficulty": 2,
+    "reflection_required": true,
+    "concept_tags": [
+      "planning",
+      "constraint",
+      "prioritization"
+    ],
+    "prompt": "Choose a city and create a simple one-day travel plan (morning, afternoon, evening) with a rough budget estimate. Reflect on what constraint shaped your plan and write one-line abstraction."
+  },
+  {
+    "id": "E05",
+    "type": "exercise",
+    "domain": "science",
+    "difficulty": 1,
+    "reflection_required": true,
+    "concept_tags": [
+      "hypothesis",
+      "simplification",
+      "cause-effect"
+    ],
+    "prompt": "Design a simple science experiment using water, a cup, and a paper towel. Explain what it demonstrates (cause-effect) and write one-line insight about what a child would learn."
+  },
+  {
+    "id": "E06",
+    "type": "exercise",
+    "domain": "hobby",
+    "difficulty": 1,
+    "reflection_required": true,
+    "concept_tags": [
+      "resource planning",
+      "goal alignment"
+    ],
+    "prompt": "Choose a new hobby and create a short Amazon shopping list to start. Explain why each item is needed, then write one-line system insight about how you prioritized essentials."
+  },
+  {
+    "id": "E07",
+    "type": "exercise",
+    "domain": "health",
+    "difficulty": 2,
+    "reflection_required": true,
+    "concept_tags": [
+      "structure design",
+      "routine planning",
+      "feedback loop"
+    ],
+    "prompt": "Create a simple 3-day beginner workout plan (Day 1, Day 2, Day 3). Identify where feedback exists (how you know to adjust) and write one-line reflection."
+  },
+  {
+    "id": "E08",
+    "type": "exercise",
+    "domain": "planning",
+    "difficulty": 1,
+    "reflection_required": true,
+    "concept_tags": [
+      "time allocation",
+      "priority setting"
+    ],
+    "prompt": "Create a simple daily study plan for tomorrow. Include 3 tasks, estimated time for each, and one break. Reflect on how you chose priorities and write one-line insight."
+  },
+  {
+    "id": "E09",
+    "type": "exercise",
+    "domain": "learning",
+    "difficulty": 2,
+    "reflection_required": true,
+    "concept_tags": [
+      "content structuring",
+      "module design",
+      "abstraction"
+    ],
+    "prompt": "Pick any YouTube topic you are curious about. Turn it into a mini learning module with 3 sections (beginner, example, summary). Write one-line abstraction of what the module teaches."
+  },
+  {
+    "id": "E10",
+    "type": "exercise",
+    "domain": "computer_it_technology",
+    "difficulty": 2,
+    "reflection_required": true,
+    "concept_tags": [
+      "input-output",
+      "feedback loop",
+      "requirements thinking"
+    ],
+    "prompt": "Design a simple everyday tech tool idea (for example: study timer, expense tracker, habit reminder). Define its input, output, and feedback loop in plain language, then write one-line insight."
+  },
+  {
+    "id": "R01",
+    "type": "reading",
+    "domain": "art_popculture",
+    "difficulty": 1,
+    "reflection_required": false,
+    "concept_tags": [
+      "narrative structure",
+      "pattern recognition",
+      "storytelling theory"
+    ],
+    "prompt": "Why do popular movies often follow similar story structures? Explain using the idea of narrative patterns."
+  },
+  {
+    "id": "R02",
+    "type": "reading",
+    "domain": "history",
+    "difficulty": 2,
+    "reflection_required": false,
+    "concept_tags": [
+      "societal change",
+      "technology impact",
+      "economic shift"
+    ],
+    "prompt": "What were three major consequences of the Industrial Revolution? Explain each briefly."
+  },
+  {
+    "id": "R03",
+    "type": "reading",
+    "domain": "animals",
+    "difficulty": 1,
+    "reflection_required": false,
+    "concept_tags": [
+      "adaptation",
+      "survival strategy",
+      "environment interaction"
+    ],
+    "prompt": "Why do some animals migrate long distances? Explain at least two biological or environmental reasons."
+  },
+  {
+    "id": "R04",
+    "type": "reading",
+    "domain": "self_development",
+    "difficulty": 1,
+    "reflection_required": false,
+    "concept_tags": [
+      "motivation",
+      "discipline",
+      "behavior consistency"
+    ],
+    "prompt": "What is the difference between short-term motivation and long-term discipline? Explain how each affects personal growth."
+  },
+  {
+    "id": "R05",
+    "type": "reading",
+    "domain": "psychology",
+    "difficulty": 2,
+    "reflection_required": false,
+    "concept_tags": [
+      "cognitive bias",
+      "perception filter",
+      "decision errors"
+    ],
+    "prompt": "What is confirmation bias? Give one everyday example and explain why it matters."
+  },
+  {
+    "id": "R06",
+    "type": "reading",
+    "domain": "computer_it_technology",
+    "difficulty": 2,
+    "reflection_required": false,
+    "concept_tags": [
+      "AI",
+      "algorithms",
+      "programming paradigms"
+    ],
+    "prompt": "What is one key difference between AI systems and traditional rule-based programming? Explain in simple terms."
+  },
+  {
+    "id": "R07",
+    "type": "reading",
+    "domain": "environment",
+    "difficulty": 1,
+    "reflection_required": false,
+    "concept_tags": [
+      "carbon cycle",
+      "ecosystem services",
+      "climate regulation"
+    ],
+    "prompt": "How do forests help reduce global warming? Explain at least two mechanisms."
+  },
+  {
+    "id": "R08",
+    "type": "reading",
+    "domain": "language",
+    "difficulty": 1,
+    "reflection_required": false,
+    "concept_tags": [
+      "grammar",
+      "communication clarity",
+      "structure"
+    ],
+    "prompt": "Why is grammar helpful in communication? Explain without using technical jargon."
+  },
+  {
+    "id": "R09",
+    "type": "reading",
+    "domain": "economics",
+    "difficulty": 2,
+    "reflection_required": false,
+    "concept_tags": [
+      "inflation",
+      "supply and demand",
+      "price levels"
+    ],
+    "prompt": "What is inflation, and what are two common causes of it?"
+  },
+  {
+    "id": "R10",
+    "type": "reading",
+    "domain": "religion",
+    "difficulty": 2,
+    "reflection_required": false,
+    "concept_tags": [
+      "ritual behavior",
+      "social cohesion",
+      "identity formation"
+    ],
+    "prompt": "Why do many religions include daily rituals? Explain the psychological or social purpose behind them."
+  }
+]

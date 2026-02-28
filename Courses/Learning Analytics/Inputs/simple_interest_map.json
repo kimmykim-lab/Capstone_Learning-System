@@ -1,0 +1,30 @@
+{
+  "english": "language",
+  "speaking": "language",
+  "grammar": "language",
+  "vocabulary": "language",
+
+  "job": "self_development",
+  "career": "self_development",
+  "interview": "self_development",
+  "resume": "self_development",
+
+  "health": "health",
+  "diet": "health",
+  "exercise": "health",
+  "fitness": "health",
+
+  "money": "finance",
+  "budget": "finance",
+  "saving": "finance",
+
+  "travel": "travel",
+  "trip": "travel",
+
+  "python": "computer_it_technology",
+  "coding": "computer_it_technology",
+  "programming": "computer_it_technology",
+
+  "science": "science",
+  "experiment": "science"
+}
